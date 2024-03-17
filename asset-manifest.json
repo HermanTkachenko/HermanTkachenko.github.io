@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/HermanTkachenko/HermanTkachenko.github.io/static/css/main.93dca933.css",
-    "main.js": "/HermanTkachenko/HermanTkachenko.github.io/static/js/main.ec39d626.js",
-    "static/media/background1.jpg": "/HermanTkachenko/HermanTkachenko.github.io/static/media/background1.70fdab0d89898607b8e2.jpg",
-    "static/media/card4.jpg": "/HermanTkachenko/HermanTkachenko.github.io/static/media/card4.39bd1d01ee8ab9a726fb.jpg",
-    "static/media/card3.jpg": "/HermanTkachenko/HermanTkachenko.github.io/static/media/card3.6b7644ab38dc24282e02.jpg",
-    "static/media/card2.jpg": "/HermanTkachenko/HermanTkachenko.github.io/static/media/card2.fa80ae49e8da3ddbc7c0.jpg",
-    "static/media/card1.jpg": "/HermanTkachenko/HermanTkachenko.github.io/static/media/card1.22d7f059f646d63939ef.jpg",
-    "static/media/earth.png": "/HermanTkachenko/HermanTkachenko.github.io/static/media/earth.7bf79dd6eefc0b7247f0.png",
-    "static/media/logo.svg": "/HermanTkachenko/HermanTkachenko.github.io/static/media/logo.f4153131d3955bdfa609912a9f3b5caf.svg",
-    "static/media/cart.svg": "/HermanTkachenko/HermanTkachenko.github.io/static/media/cart.b697889a2021dbe00a30dd5ff69f0034.svg",
-    "index.html": "/HermanTkachenko/HermanTkachenko.github.io/index.html",
-    "main.93dca933.css.map": "/HermanTkachenko/HermanTkachenko.github.io/static/css/main.93dca933.css.map",
-    "main.ec39d626.js.map": "/HermanTkachenko/HermanTkachenko.github.io/static/js/main.ec39d626.js.map"
+    "main.css": "/static/css/main.3e781194.css",
+    "main.js": "/static/js/main.9f1b5ef7.js",
+    "static/media/background1.jpg": "/static/media/background1.70fdab0d89898607b8e2.jpg",
+    "static/media/card4.jpg": "/static/media/card4.39bd1d01ee8ab9a726fb.jpg",
+    "static/media/card3.jpg": "/static/media/card3.6b7644ab38dc24282e02.jpg",
+    "static/media/card2.jpg": "/static/media/card2.fa80ae49e8da3ddbc7c0.jpg",
+    "static/media/card1.jpg": "/static/media/card1.22d7f059f646d63939ef.jpg",
+    "static/media/earth.png": "/static/media/earth.7bf79dd6eefc0b7247f0.png",
+    "static/media/logo.svg": "/static/media/logo.f4153131d3955bdfa609912a9f3b5caf.svg",
+    "static/media/cart.svg": "/static/media/cart.b697889a2021dbe00a30dd5ff69f0034.svg",
+    "index.html": "/index.html",
+    "main.3e781194.css.map": "/static/css/main.3e781194.css.map",
+    "main.9f1b5ef7.js.map": "/static/js/main.9f1b5ef7.js.map"
   },
   "entrypoints": [
-    "static/css/main.93dca933.css",
-    "static/js/main.ec39d626.js"
+    "static/css/main.3e781194.css",
+    "static/js/main.9f1b5ef7.js"
   ]
 }
